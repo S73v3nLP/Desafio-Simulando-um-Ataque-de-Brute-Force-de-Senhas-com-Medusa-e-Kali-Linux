@@ -1,4 +1,4 @@
-# Simulação de Ataque utilizando o método BruteForce a um Formulário WEB.md
+# Simulação de Ataque utilizando o método BruteForce a um Formulário WEB
 
 ## Demonstrando como automatizar o ataque no formulário de login de sites WEB, observando se o desenvolvedor deixou alguma brecha ou pista ao receber essas tentativas de LOGON
 
